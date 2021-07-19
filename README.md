@@ -12,7 +12,7 @@ YouTube video: [UNET Segmentation on CT Scan Images using TensorFlow 2.0](https:
 # Dataset
 The dataset contains the CT scan image and their respective binary mask. These binary mask are annotated using VGG Image Annotator website.
 
-Download the dataset: [CT Heart Dataset - 2D Binary Segmentation Task](www.kaggle.com/dataset/f41e0bab640002775b00e050b81a1144786324951b0576f5d71fd820d6ef13dc)
+Download the dataset: [CT Heart Dataset - 2D Binary Segmentation Task](https://kaggle.com/dataset/f41e0bab640002775b00e050b81a1144786324951b0576f5d71fd820d6ef13dc)
 Original Image             |  Mask Image
 :-------------------------:|:-------------------------:
 ![](img/image.jpg)  |  ![](img/mask.jpg)
